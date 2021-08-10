@@ -8,11 +8,11 @@
   ],
   "homepage": "",
   "repository": {
-    "url": "",
+    "url": "https://github.com/Lemonswap/lemon-swap-lib",
     "type": "git"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/Lemonswap/lemon-swap-lib/issues"
   },
   "engines": {
     "node": ">=10"
